@@ -4,6 +4,7 @@
 <body>
 <?php
 $salto="<BR>";
+    //Practica 2 en php Operadores
 echo "Operadores en php<BR>";
 echo $salto;
 $a = 23;
